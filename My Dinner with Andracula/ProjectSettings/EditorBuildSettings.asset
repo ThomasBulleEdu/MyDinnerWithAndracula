@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TestScene.unity
+    guid: ce0056937795f4f4d87c30fb28817fae
+  - enabled: 1
+    path: Assets/Scenes/Andracula.unity
+    guid: 95d1e5a770aa65742b34fe1513b995c6
   m_configObjects: {}
